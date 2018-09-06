@@ -4374,6 +4374,11 @@ gh-pages@^1.1.0:
     graceful-fs "4.1.11"
     rimraf "^2.6.2"
 
+giphy-api@^1.2.7:
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/giphy-api/-/giphy-api-1.2.7.tgz#82bede451053675b1c98b6340711b789579a03bd"
+  integrity sha1-gr7eRRBTZ1scmLY0BxG3iVeaA70=
+
 giphy@^0.0.4:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/giphy/-/giphy-0.0.4.tgz#924e1e032664bd9886a27c228ffe64cb36d27470"
